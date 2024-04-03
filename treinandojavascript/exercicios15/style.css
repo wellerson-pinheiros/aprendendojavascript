@@ -1,0 +1,15 @@
+body{
+    background: rgb(79, 79, 252);
+}
+header{
+    color: blanchedalmond;
+    
+}
+section{
+    background-color: blanchedalmond;
+    width: 300px;
+    height: 200px;
+    border-radius: 50px;
+    margin: auto;
+    padding: 10px;
+}
